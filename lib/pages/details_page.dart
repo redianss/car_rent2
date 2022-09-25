@@ -94,8 +94,8 @@ class _DetailsPageState extends State<DetailsPage> {
           leadingWidth: size.width * 0.15,
           title: Image.asset(
             isDarkMode
-                ? 'assets/icons/SobGOGlight.png'
-                : 'assets/icons/SobGOGdark.png',
+                ? 'assets/icons/Rental_Mobil.png'
+                : 'assets/icons/Rental_Mobil_dark.png',
             height: size.height * 0.06,
             width: size.width * 0.35,
           ),
@@ -322,7 +322,7 @@ class _DetailsPageState extends State<DetailsPage> {
                                       target: _center,
                                       zoom: 13.0,
                                     ),
-                                    onTap: (latLng) => Get.to(Maps()),
+                                    onTap: (latLng) => Get.to(const Maps()),
                                     zoomControlsEnabled: false,
                                     scrollGesturesEnabled: true,
                                     zoomGesturesEnabled: true,

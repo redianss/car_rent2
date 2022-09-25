@@ -66,8 +66,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/icons/SobGOGdark.png
-    - assets/icons/SobGOGlight.png
+    - assets/icons/Rental_Mobil.png
+    - assets/icons/Rental_Mobil_dark.png
     - assets/icons/hyundai.png
     - assets/icons/volkswagen.png
     - assets/icons/bmw.png
