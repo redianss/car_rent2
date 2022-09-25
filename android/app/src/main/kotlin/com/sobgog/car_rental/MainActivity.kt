@@ -1,4 +1,4 @@
-package com.sobgog.car_rental
+package "rental.mobil
 
 import io.flutter.embedding.android.FlutterActivity
 
